@@ -1,0 +1,23 @@
+{
+  "overview": "A complete fitness companion that combines a realistic 3D interactive muscle viewer with a comprehensive training guide. Every major muscle group has illustrated step-by-step exercises, training frequency instructions, nutrition macros, and recovery methods — all in one app.",
+  "features": [
+    "Interactive 3D human body model with 30+ selectable muscles",
+    "Step-by-step exercise illustrations with inline SVG figures for every muscle group",
+    "Nutrition and macro guide with muscle-specific food recommendations",
+    "Fast recovery methods including stretching, foam rolling, and contrast therapy",
+    "Tab navigation between 3D viewer and Training Guide",
+    "Beginner and advanced exercise variations"
+  ],
+  "category": "health-fitness",
+  "tags": [
+    "fitness",
+    "muscle",
+    "3d",
+    "exercise-guide",
+    "nutrition",
+    "recovery",
+    "anatomy",
+    "workout"
+  ],
+  "last_updated": "2026-04-19T08:33:54.229Z"
+}
